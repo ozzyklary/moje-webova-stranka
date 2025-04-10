@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+ <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  
+  <title>Minecraft průvodce</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+</body>
+</html>
+<h1>Creative</h1> 
+<div id='container'>
+</div>
+
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    body {
+        font-family: Arial, Arial;
+        margin: 1px;
+        padding: 1px;
+    }
+
+    .menu button {
+        flex: 1;
+        background-color: rgb(206, 206, 206);
+        color: black;
+        padding: 30px;
+        cursor: pointer;
+        text-align: center;
+        border-radius: 5px;
+        border: none;
+        transition: transform 1s, background-color 1s;
+        font-size: 25px;
+    }
+
+    .menu button:hover {
+        background-color: rgb(180, 238, 180);
+        transform: scale(1.1);
+    }
+
+    .content {
+        padding: 50px;
+    }
+</style>
+</head>
+<body>
+    <div class="menu">
+    <a href="minecraft.html"><button>Domů</button></a>
+    <a href="Creative.html"><button>Creative</button></a>
+    <a href="Survival.html"><button>Survival</button></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p> Tento text pochází z článku na webu <a href="https://www.idnes.cz/technet/internet/ak-prezit-praci-s-pocitacem-setrete-sve-ruce.A040224_5252573_sw_internet"> idnes.cz</a></p>
+</body>
+</html>

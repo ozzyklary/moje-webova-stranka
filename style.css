@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(168, 211, 95);
+    font-family: Poppins;
+}
+
+h1 {
+    color: #444444;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+* {
+    text-align: left;
+}
+
+button {
+    background-color: rgb(200, 230, 200);  /* jemná pastelová zelená */
+    color: black;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: rgb(150, 210, 150);
+    transform: scale(1.05);
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+}
+.item-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+transform: rotate(-13deg);
+}
+
+body {
+    background-image: url('488598747_1674900466458701_5413195472658884580_n (1).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;         /* nebo "contain" – záleží na efektu */
+    background-position: center;
+    background-attachment: fixed;   /* aby obrázek zůstal statický při scrollování */
+    font-family: Arial, sans-serif;
+    color: black;
+    padding: 30px;
+}
+
+<style>
+    body {
+        text-align: center;
+    }
+</style>
